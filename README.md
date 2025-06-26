@@ -4,7 +4,7 @@ A simple and interactive Grade Calculator web app built using **HTML**, **CSS**,
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live project]((https://manya10-sharma.github.io/Grade-calculator/))
+👉 [Click here to view the live project](https://manya10-sharma.github.io/Grade-calculator/)
 
 ## 🚀 Features
 
